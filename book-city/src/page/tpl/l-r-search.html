@@ -1,0 +1,18 @@
+<script type="text/x-handlebars-template" id="search-top">
+     {{#each this}}
+        <a href="#" class="bookLRlist" data-src="{{cover}}">
+            <dl>
+                <dt>
+                    <img src="{{cover}}" alt="">
+                </dt>
+                <dd>
+                    <h4>{{title}}</h4>
+                    <h6>{{#each role}}{{this}}{{/each}}</h6>
+                    <p>{{intro}}</p>
+                    <div class="booktit">
+                    </div>
+                </dd>
+            </dl>
+        </a>
+     {{/each}}
+</script>

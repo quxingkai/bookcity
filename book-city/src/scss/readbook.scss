@@ -1,0 +1,95 @@
+@import "_config.scss";
+@import "_mixin.scss";
+.bookLRlist{
+    width:100%;
+    padding: pxTorem(10px);
+    .readright{
+        padding-left:40px;
+        h4{
+            font-size:pxTorem(20px);
+            color:#000;
+            height:pxTorem(46px);
+            line-height: pxTorem(46px);
+        }
+        h6{
+            margin-top:pxTorem(10px);
+            font-size:pxTorem(20px);
+            height:pxTorem(46px);
+            line-height: pxTorem(46px);
+        }
+        .booktit{
+            margin-top:pxTorem(10px);
+            height:pxTorem(40px);
+            font-size: pxTorem(14px);
+            .finish{
+                display:inline;
+                padding:pxTorem(3px) pxTorem(5px);
+                margin-left:pxTorem(10px);
+            }
+        }
+    }
+}
+.reading{
+    display: flex;
+    align-items: center;
+    width:100%;
+    height:pxTorem(50px);
+    .beginRead,.begindown{
+        flex:1;
+        font-size:pxTorem(16px);
+        text-align: center;
+        color:#333;
+        margin:pxTorem(6px) pxTorem(10px);
+        height: pxTorem(30px);
+        line-height: pxTorem(30px);
+        border:1px solid #999;
+    }
+    .beginRead.bg, .begindown.bg{
+        color:#fff;
+        background: orange;
+        border:0;
+    }
+
+}
+.content{
+    padding:pxTorem(10px);
+    font-size: pxTorem(14px);
+    @include line(4);
+    color:#999;
+    height:pxTorem(100px);
+}
+.Newest{
+    display: block;
+    width:100%;
+    font-size: pxTorem(14px);
+    height:pxTorem(40px);
+    border-top:1px solid #ccc;
+    line-height: pxTorem(40px);
+    text-align: center;
+    color:#333;
+}
+.toptit{
+    width:100%;
+    height:pxTorem(40px);
+    padding:0 pxTorem(20px);
+    font-size: pxTorem(16px);
+    color:#999;
+}
+.storytit{
+    margin:pxTorem(5px) pxTorem(10px);
+    border:1px solid #999;
+    font-size: pxTorem(14px);
+    padding: pxTorem(3px) pxTorem(8px);
+    background: #FFCCFF;
+    border-radius: pxTorem(4px);
+    color:#990000;
+}
+.authorbooks{
+    margin-top:pxTorem(10px);
+    width:100%;
+    height:pxTorem(40px);
+    line-height: pxTorem(40px);
+    color:#333;
+    font-size: pxTorem(16px);
+    padding-left:pxTorem(20px);
+}

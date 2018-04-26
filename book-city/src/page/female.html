@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+        <meta charset="UTF-8">
+        <script src="../js/libs/flexible.js"></script>
+        <meta http-equiv="X-UA-Compatible" content="ie=edge">
+        <title>女生频道</title>
+        <link rel="stylesheet" href="../scss/header.css">
+        <link rel="stylesheet" href="../scss/share.css">
+        <link rel="stylesheet" href="../scss/section.css">
+        <link rel="stylesheet" href="../css/common.css">
+        <link rel="stylesheet" href="../scss/index.css">
+        <link rel="stylesheet" href="../font/iconfont.css">
+        <link rel="stylesheet" href="../scss/search.css">
+        <link rel="stylesheet" href="../scss/iconlist.css">
+
+</head>
+<body>
+    <div class="wrap">
+        <header class="render-header header"></header>
+    </div>
+    <script src="../js/require.js"></script>
+    <script>
+        require(['../js/main.js'],function(){
+            require(['header'],function(header){
+                var obj = {
+                    istrue:false
+                }
+                header({title:'女生频道'});
+            })
+        })
+    </script>
+</body>
+</html>

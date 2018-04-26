@@ -1,0 +1,15 @@
+@import "_mixin.scss";
+@import "_config.scss";
+.btnbook{
+    width:100%;
+    display: flex;
+    padding: 0 10px;
+    flex-wrap: wrap;
+    li{
+        margin:15px;
+        border:1px solid pink;
+        color:pink;
+        font-size: pxTorem(18px);
+        padding:pxTorem(5px) pxTorem(10px);
+    }
+}

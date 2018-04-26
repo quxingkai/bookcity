@@ -1,0 +1,83 @@
+@charset "UTF-8";
+/*字体大小*/
+/*灰色字体颜色*/
+/*白色字体*/
+/*黑色字体*/
+/*按钮灰色边框*/
+/*蓝色边框颜色*/
+/*蓝色字体颜色*/
+/*group 底部边框颜色*/
+/*header背景*/
+/*搜索框border颜色*/
+/*banner buttle*/
+/*orange line颜色*/
+/*line bottom颜色*/
+/* 书背景*/
+/* 书边框颜色 */
+/*书的阴影*/
+/*绿色标签颜色*/
+/*限免tag背景*/
+/*按钮背景颜色*/
+/*按钮border颜色*/
+/*标签背景*/
+/*标签背景色*/
+/*详情界面*/
+/* 阅读界面 */
+/*阅读界面标题*/
+/*超过几行显示省略号*/
+/*背景*/
+/* 滚动 */
+/*html {
+    font-size: $browser-default-font-size;
+}*/
+html {
+  font-size: 37.5px; }
+
+.header {
+  width: 100%;
+  height: 1.33333rem;
+  padding: 0 0.42667rem;
+  display: flex;
+  align-items: center;
+  position: relative;
+  border-bottom: 1px solid #E9E8E6;
+  background: #EFEFEF; }
+  .header a {
+    color: #000; }
+  .header .btn-sign {
+    position: absolute;
+    left: 0.26667rem;
+    display: inline-block;
+    width: 0.8rem;
+    height: 0.8rem;
+    background: url("../imgs/icon-sign.png") no-repeat center center;
+    background-size: cover; }
+  .header .btn-person {
+    position: absolute;
+    right: 0.26667rem;
+    display: inline-block;
+    width: 0.69333rem;
+    height: 0.74667rem;
+    background: url("../imgs/icon-person.png") no-repeat center center;
+    background-size: cover; }
+  .header .btnBook {
+    text-align: center;
+    flex: 1;
+    height: 1.17333rem;
+    line-height: 1.17333rem; }
+    .header .btnBook span {
+      display: inline-block;
+      height: 1.06667rem;
+      font-size: 0.48rem;
+      margin: 0 0.26667rem; }
+      .header .btnBook span.bg:after {
+        content: "";
+        position: relative;
+        bottom: 4px;
+        display: block;
+        width: 100%;
+        height: 1px;
+        background: #454442;
+        transition: all 1s; }
+      .header .btnBook span.bg {
+        color: #ff6600; }

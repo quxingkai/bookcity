@@ -1,0 +1,623 @@
+{
+    "count": 10,
+    "updated": 0,
+    "group_ids": [{
+        "fiction_ids": [
+            24462,
+            270693,
+            17905,
+            320606,
+            30714,
+            49236,
+            30767,
+            17891,
+            17792,
+            32521,
+            45045,
+            30445,
+            30643,
+            45123,
+            30943,
+            17866,
+            18091
+        ],
+        "name": ""
+    }],
+    "description": "解不开的死劫，斩不断的情缘，漫漫红尘，此生已付，可还有来世？\n虐！虐！虐！小编精选虐身虐心蓝瘦香菇古言合集！不要错过哦！",
+    "hidden_info": "H5",
+    "gender": 0,
+    "v": 0,
+    "label": "弹指流年，拂歌尘散",
+    "result": 0,
+    "list_id": 11452,
+    "total": 0,
+    "items": [{
+            "ad": 0,
+            "word_count": 645576,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 7713404,
+            "free_chapter": false,
+            "score_count": 1372,
+            "copyright": "",
+            "title": "白发皇妃",
+            "on_sale": true,
+            "comment_count": 1005,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 129,
+            "score": 8.99,
+            "allow_free_read": 1,
+            "rights_id": 10039,
+            "channel": [
+                2
+            ],
+            "updated": 1393386565,
+            "finish": true,
+            "tags": [
+                "历史穿越",
+                "穿越"
+            ],
+            "price": 5,
+            "chapter_count": 130,
+            "authors": "莫言殇",
+            "categories": [{
+                    "category_id": 130000,
+                    "label": "穿越架空"
+                },
+                {
+                    "category_id": 130200,
+                    "label": "历史穿越"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000300,
+                    "label": "古代情缘"
+                }
+            ],
+            "rights": "潇湘书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01Ymtmzjhby/MRtaSCOQD5pXcF.jpg",
+            "summary": "红罗帐内，她被迫承欢，三千青丝寸寸成雪。红罗帐外，夫君却与美人对酌成欢...",
+            "fiction_id": 24462,
+            "outer_id": "52bd3dd125ccbf2f060e1002",
+            "latest": "魂归三"
+        },
+        {
+            "ad": 0,
+            "word_count": 7040446,
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "click": 170937497,
+            "free_chapter": false,
+            "score_count": 9991,
+            "copyright": "",
+            "title": "一世倾城：冷宫弃妃",
+            "new_tags": [
+                "虐恋",
+                "帝王",
+                "腹黑",
+                "争霸",
+                "权谋"
+            ],
+            "on_sale": true,
+            "comment_count": 8393,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 2523,
+            "score": 8.07,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                2
+            ],
+            "updated": 1510992291,
+            "finish": true,
+            "tags": [
+                "古典架空",
+                "架空历史",
+                "古代言情"
+            ],
+            "price": 5,
+            "chapter_count": 2476,
+            "authors": "冷青衫",
+            "categories": [{
+                    "category_id": 110000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 110100,
+                    "label": "架空历史"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000200,
+                    "label": "古典架空"
+                }
+            ],
+            "rights": "阅文集团旗下云起书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01XtmCruiAe/OGPpC1r9zANvx4.jpg",
+            "summary": "那一夜，她褪去了少女的青涩，成为冷宫深处的悲伤涟漪……\n那一天，她跪在他的脚下苦苦哀求，她什么都不...",
+            "fiction_id": 270693,
+            "outer_id": "22136932000050302",
+            "latest": "第2523章 一步（大结局）"
+        },
+        {
+            "ad": 0,
+            "word_count": 539555,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 281567,
+            "free_chapter": false,
+            "score_count": 57,
+            "copyright": "",
+            "title": "夜妖娆",
+            "on_sale": true,
+            "comment_count": 36,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 148,
+            "score": 8.45,
+            "allow_free_read": 1,
+            "rights_id": 10039,
+            "channel": [
+                2
+            ],
+            "updated": 1407380488,
+            "finish": true,
+            "tags": [
+                "架空穿越",
+                "穿越"
+            ],
+            "price": 5,
+            "chapter_count": 149,
+            "authors": "莫言殇",
+            "categories": [{
+                    "category_id": 130000,
+                    "label": "穿越架空"
+                },
+                {
+                    "category_id": 130100,
+                    "label": "架空穿越"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000400,
+                    "label": "穿越奇情"
+                }
+            ],
+            "rights": "潇湘书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p013S5Z1IIGY/WeCtQRFbhAsMef.jpg",
+            "summary": "彻底的给予，换来她的武功散尽，倾心相付却得来他一纸休书以及残忍绝情的话语，她眼睁睁望着半空中，飞扬的...",
+            "fiction_id": 17905,
+            "outer_id": "52bd3da825ccbf2f060e0fb0",
+            "latest": "恶搞"
+        },
+        {
+            "ad": 0,
+            "word_count": 527060,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 199805,
+            "free_chapter": false,
+            "score_count": 78,
+            "copyright": "",
+            "title": "废后将军",
+            "on_sale": true,
+            "comment_count": 44,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 131,
+            "score": 9.17,
+            "allow_free_read": 1,
+            "rights_id": 20004,
+            "channel": [
+                2
+            ],
+            "updated": 1468890712,
+            "finish": true,
+            "tags": [
+                "原创",
+                "言情",
+                "爱情",
+                "古典架空",
+                "架空历史",
+                "古代言情"
+            ],
+            "price": 3,
+            "chapter_count": 132,
+            "authors": "一度君华",
+            "categories": [{
+                    "category_id": 110000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 110100,
+                    "label": "架空历史"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000200,
+                    "label": "古典架空"
+                }
+            ],
+            "rights": "晋江文学",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01Ml8BYnKOo/SY6EcpsKqOTFUV.jpg",
+            "summary": "你是君，我是臣，你要忠诚，我给你忠诚。\n你是君，我是臣，你要我牺牲，我为你牺牲。\n这辈子只是君臣……...",
+            "fiction_id": 320606,
+            "outer_id": "2503818",
+            "latest": "终章（网络版完结）"
+        },
+        {
+            "ad": 0,
+            "word_count": 1068957,
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "click": 6109737,
+            "free_chapter": false,
+            "score_count": 384,
+            "copyright": "",
+            "title": "君临天下",
+            "on_sale": false,
+            "comment_count": 202,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 402,
+            "score": 8.76,
+            "allow_free_read": 1,
+            "rights_id": 20002,
+            "channel": [
+                2
+            ],
+            "updated": 1465867308,
+            "finish": true,
+            "tags": [
+                "古典架空",
+                "穿越奇情",
+                "架空穿越",
+                "古代言情",
+                "穿越架空"
+            ],
+            "price": 3,
+            "chapter_count": 403,
+            "authors": "寂月皎皎",
+            "categories": [{
+                    "category_id": 130000,
+                    "label": "穿越架空"
+                },
+                {
+                    "category_id": 130100,
+                    "label": "架空穿越"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000400,
+                    "label": "穿越奇情"
+                }
+            ],
+            "rights": "红袖",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01xPRfl13HY/JiUPdiB15fnLiF.jpg",
+            "summary": "成亲三年尚未圆房，太子妃萧木槿就是皇宫中的一大笑话。\r\n可这天底下聪明人往往活不长久，她呆些又何妨？",
+            "fiction_id": 30714,
+            "outer_id": "52d74e2d0ea49726724f863e",
+            "latest": "（空）"
+        },
+        {
+            "ad": 0,
+            "word_count": 968964,
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "click": 10095099,
+            "free_chapter": false,
+            "score_count": 467,
+            "copyright": "",
+            "title": "代嫁弃妃",
+            "on_sale": true,
+            "comment_count": 320,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 398,
+            "score": 8.53,
+            "allow_free_read": 1,
+            "rights_id": 10020,
+            "channel": [
+                2
+            ],
+            "updated": 1465868642,
+            "finish": true,
+            "tags": [
+                "黑道",
+                "王妃",
+                "情殇",
+                "阴谋",
+                "古典架空",
+                "古代言情",
+                "架空历史"
+            ],
+            "price": 3,
+            "chapter_count": 399,
+            "authors": "安知晓",
+            "categories": [{
+                    "category_id": 110000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 110100,
+                    "label": "架空历史"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000200,
+                    "label": "古典架空"
+                }
+            ],
+            "rights": "小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p012iYgHQfKa/GtjqDI18iPFi9Q.jpg",
+            "summary": "“媛媛，如果能重来，我会好好珍惜你。”萧绝说道。\r\n前世的爱恨情仇随着会场的炸毁烟消弥散，可这份情真会",
+            "fiction_id": 49236,
+            "outer_id": "544f859d0ea49706f28b8cc6",
+            "latest": "第399章 番外69"
+        },
+        {
+            "ad": 0,
+            "word_count": 1431392,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 5134278,
+            "free_chapter": false,
+            "score_count": 175,
+            "copyright": "",
+            "title": "毒妾",
+            "on_sale": false,
+            "comment_count": 112,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 388,
+            "score": 7.84,
+            "allow_free_read": 1,
+            "rights_id": 20002,
+            "channel": [
+                2
+            ],
+            "updated": 1429513333,
+            "finish": true,
+            "tags": [
+                "古典架空",
+                "架空穿越",
+                "穿越"
+            ],
+            "price": 3,
+            "chapter_count": 389,
+            "authors": "秋水灵儿",
+            "categories": [{
+                    "category_id": 10000,
+                    "label": "玄幻奇幻"
+                },
+                {
+                    "category_id": 10500,
+                    "label": "西方奇幻"
+                },
+                {
+                    "category_id": 15000000,
+                    "label": "玄幻言情"
+                },
+                {
+                    "category_id": 15000600,
+                    "label": "西方奇幻"
+                }
+            ],
+            "rights": "红袖",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p015qoncJhkh/tbPMfw41aa2xu9.jpg",
+            "summary": "“你还是省省吧，再过几日，大少爷就要迎娶云初公主了，你还是赶紧带着你的小杂种去阎王殿吧。”\n除夕之夜...",
+            "fiction_id": 30767,
+            "outer_id": "52d74e3e0ea49726724f8671",
+            "latest": "兰千雪（番外）"
+        },
+        {
+            "ad": 0,
+            "word_count": 537344,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 540637,
+            "free_chapter": false,
+            "score_count": 23,
+            "copyright": "",
+            "title": "错孕逃妃",
+            "on_sale": true,
+            "comment_count": 17,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 99,
+            "score": 7.3,
+            "allow_free_read": 1,
+            "rights_id": 10039,
+            "channel": [
+                2
+            ],
+            "updated": 1388719047,
+            "finish": true,
+            "tags": [
+                "架空穿越",
+                "穿越"
+            ],
+            "price": 5,
+            "chapter_count": 100,
+            "authors": "唐梦若影",
+            "categories": [{
+                    "category_id": 130000,
+                    "label": "穿越架空"
+                },
+                {
+                    "category_id": 130100,
+                    "label": "架空穿越"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000400,
+                    "label": "穿越奇情"
+                }
+            ],
+            "rights": "潇湘书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p016Qz80wnm0/bVPgm5WvmgfLPC.jpg",
+            "summary": "“贱人，竟然不是处子之身。”那一刻，他原本冰冷的眸子瞬间漫过阴桀，暴戾。一个抽身，他快速地跃起，手却...",
+            "fiction_id": 17891,
+            "outer_id": "52bd3dab25ccbf2f060e0fb6",
+            "latest": "大结局"
+        },
+        {
+            "ad": 0,
+            "word_count": 698774,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 381277,
+            "free_chapter": false,
+            "score_count": 49,
+            "copyright": "",
+            "title": "凤隐天下",
+            "on_sale": false,
+            "comment_count": 31,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 195,
+            "score": 9.02,
+            "allow_free_read": 1,
+            "rights_id": 10039,
+            "channel": [
+                2
+            ],
+            "updated": 1465813695,
+            "finish": true,
+            "tags": [
+                "历史穿越",
+                "穿越"
+            ],
+            "price": 5,
+            "chapter_count": 196,
+            "authors": "月出云",
+            "categories": [{
+                    "category_id": 130000,
+                    "label": "穿越架空"
+                },
+                {
+                    "category_id": 130200,
+                    "label": "历史穿越"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000300,
+                    "label": "古代情缘"
+                }
+            ],
+            "rights": "潇湘书院",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p011Is7Qn1zP/uvDUzpZDEqONUY.jpg",
+            "summary": "化身清丽小太监，她踩着刀尖前进！",
+            "fiction_id": 17792,
+            "outer_id": "52bd3e8625ccbf2f060e114d",
+            "latest": "番外情人节礼物—修罗草"
+        },
+        {
+            "ad": 0,
+            "word_count": 310084,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 52613,
+            "free_chapter": false,
+            "score_count": 19,
+            "copyright": "",
+            "title": "斩情丝（原名：弃后）",
+            "on_sale": true,
+            "comment_count": 10,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 77,
+            "score": 8.94,
+            "allow_free_read": 1,
+            "rights_id": 20004,
+            "channel": [
+                2
+            ],
+            "updated": 1426278370,
+            "finish": true,
+            "tags": [
+                "原创",
+                "言情",
+                "爱情",
+                "古典架空",
+                "架空历史",
+                "古代言情"
+            ],
+            "price": 3,
+            "chapter_count": 78,
+            "authors": "西西东东",
+            "categories": [{
+                    "category_id": 110000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 110100,
+                    "label": "架空历史"
+                },
+                {
+                    "category_id": 17000000,
+                    "label": "古代言情"
+                },
+                {
+                    "category_id": 17000200,
+                    "label": "古典架空"
+                }
+            ],
+            "rights": "晋江文学",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01zpEsT7PZe/ouO1fXo6ZAP1Cc.jpg",
+            "summary": "十五年青梅竹马，三年鸾凤齐鸣，三月冷眼以对。\n被弃宫中，被屠满门，被逼弃子。\n凤凰涅槃，再世重生，她...",
+            "fiction_id": 32521,
+            "outer_id": "579242",
+            "latest": "第七十二章"
+        }
+    ],
+    "banner": "http://image.read.duokan.com/mfsv2/download/fdsc3/p01V1KHze11Q/lb3QSrqV6N2qpI.jpg",
+    "packed": false,
+    "more": true
+}

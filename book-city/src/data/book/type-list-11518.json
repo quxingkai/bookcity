@@ -1,0 +1,651 @@
+{
+    "count": 10,
+    "updated": 0,
+    "group_ids": [{
+        "fiction_ids": [
+            317077,
+            288326,
+            37367,
+            322595,
+            315299,
+            316997,
+            37356,
+            315933,
+            309004,
+            315293,
+            315188,
+            317398,
+            317227,
+            315156,
+            316152,
+            45085,
+            37568,
+            298621,
+            315386,
+            254007
+        ],
+        "name": ""
+    }],
+    "description": "沧海一声笑 滔滔两岸潮\n浮沉随浪只记今朝\n苍天笑 纷纷世上潮\n谁负谁胜出天知晓\n苍生笑 不再寂寥\n豪情仍在痴痴笑笑\n……\n少侠们，可还有梦？",
+    "hidden_info": "H5",
+    "gender": 0,
+    "v": 0,
+    "label": "仗剑走天涯:每个人心中都有一个武侠梦",
+    "result": 0,
+    "list_id": 11518,
+    "total": 0,
+    "items": [{
+            "ad": 0,
+            "word_count": 2390907,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 7318976,
+            "free_chapter": false,
+            "score_count": 172,
+            "copyright": "",
+            "title": "踏天封神",
+            "on_sale": false,
+            "comment_count": 124,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 935,
+            "score": 5.75,
+            "allow_free_read": 1,
+            "rights_id": 10020,
+            "channel": [
+                1
+            ],
+            "updated": 1465873125,
+            "finish": true,
+            "tags": [
+                "狼叔大大",
+                "张弛",
+                "扮猪吃虎",
+                "热血",
+                "极品",
+                "暧昧,星空,异世",
+                "爽文",
+                "异世大陆",
+                "异界大陆",
+                "玄幻",
+                "玄幻奇幻"
+            ],
+            "price": 3,
+            "chapter_count": 936,
+            "authors": "狼叔大大",
+            "categories": [{
+                    "category_id": 10000,
+                    "label": "玄幻奇幻"
+                },
+                {
+                    "category_id": 10200,
+                    "label": "异世大陆"
+                },
+                {
+                    "category_id": 1000000,
+                    "label": "玄幻"
+                },
+                {
+                    "category_id": 1000200,
+                    "label": "异界大陆"
+                }
+            ],
+            "rights": "小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01TZQiOj74K/gsWZRIoJs64Q1W.jpg",
+            "summary": "张族世子珠玉蒙尘，被族定废人，为保父亲族长之位，倔强少年纵身跳入绝龙谷，得奇遇，却引出一段令人发指的...",
+            "fiction_id": 317077,
+            "outer_id": "5694c9b050e3a4261f58f03c",
+            "latest": "第936章 踏天封神（大结局）"
+        },
+        {
+            "ad": 0,
+            "word_count": 6019986,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 18846386,
+            "free_chapter": false,
+            "score_count": 1293,
+            "copyright": "",
+            "title": "逍遥派",
+            "new_tags": [
+                "孤儿",
+                "练功流",
+                "热血"
+            ],
+            "on_sale": true,
+            "comment_count": 852,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 2277,
+            "score": 7.34,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521828700,
+            "finish": false,
+            "tags": [
+                "武侠幻想",
+                "武侠仙侠",
+                "浪子异侠",
+                "武侠",
+                "新派武侠"
+            ],
+            "price": 5,
+            "chapter_count": 2278,
+            "authors": "白马出淤泥",
+            "categories": [{
+                    "category_id": 30000,
+                    "label": "武侠仙侠"
+                },
+                {
+                    "category_id": 30600,
+                    "label": "浪子异侠"
+                },
+                {
+                    "category_id": 3000000,
+                    "label": "武侠"
+                },
+                {
+                    "category_id": 3000200,
+                    "label": "新派武侠"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01BPVtoYC5O/hGLGOTvIoUzPi0.jpg",
+            "summary": "金庸武侠中有不少的神秘高手，书中或提起名字，或不曾提起，总之他们要么留下了绝世秘笈，要么就名震武林。...",
+            "fiction_id": 288326,
+            "outer_id": "22378834000680702",
+            "latest": "第2273章 无人的石棺"
+        },
+        {
+            "ad": 0,
+            "word_count": 2394243,
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "click": 3270121,
+            "free_chapter": false,
+            "score_count": 147,
+            "copyright": "",
+            "title": "绝代剑魔",
+            "on_sale": false,
+            "comment_count": 101,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 769,
+            "score": 7.51,
+            "allow_free_read": 1,
+            "rights_id": 20002,
+            "channel": [
+                1
+            ],
+            "updated": 1445929782,
+            "finish": false,
+            "tags": [
+                "武侠",
+                "浪子异侠"
+            ],
+            "price": 3,
+            "chapter_count": 770,
+            "authors": "雨田强鹰",
+            "categories": [{
+                    "category_id": 30000,
+                    "label": "武侠仙侠"
+                },
+                {
+                    "category_id": 30600,
+                    "label": "浪子异侠"
+                },
+                {
+                    "category_id": 3000000,
+                    "label": "武侠"
+                },
+                {
+                    "category_id": 3000200,
+                    "label": "新派武侠"
+                }
+            ],
+            "rights": "红袖",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p018dj83QtTn/yMVJPMsYI6P3qC.jpg",
+            "summary": "他人送“绝代剑魔”，可做的却是“，除暴安良，英雄侠义”之事！他精灵古怪，调皮；他英俊潇洒，...",
+            "fiction_id": 37367,
+            "outer_id": "681",
+            "latest": "第七百七十八章 罗家来人"
+        },
+        {
+            "ad": 0,
+            "word_count": 6333407,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 8748437,
+            "free_chapter": false,
+            "score_count": 446,
+            "copyright": "",
+            "title": "白袍总管",
+            "new_tags": [
+                "淡定",
+                "凡人流",
+                "丹药"
+            ],
+            "on_sale": true,
+            "comment_count": 247,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 2974,
+            "score": 8.08,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1521819100,
+            "finish": false,
+            "tags": [
+                "武侠幻想",
+                "武侠",
+                "新派武侠"
+            ],
+            "price": 5,
+            "chapter_count": 2956,
+            "authors": "萧舒",
+            "categories": [{
+                    "category_id": 3000000,
+                    "label": "武侠"
+                },
+                {
+                    "category_id": 3000200,
+                    "label": "新派武侠"
+                }
+            ],
+            "rights": "阅文集团旗下起点中文网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01Y4cmiJQ1w/LkoWtkmzIhdlwM.jpg",
+            "summary": "身怀佛家神通，进入国公府成为杂役，江湖之中，庙堂之上，儿女情长，英雄壮歌。\r\n VIP群：12939...",
+            "fiction_id": 322595,
+            "outer_id": "3338964100758802",
+            "latest": "第2928章 导引（二更）"
+        },
+        {
+            "ad": 0,
+            "word_count": 1529538,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 229748,
+            "free_chapter": false,
+            "score_count": 17,
+            "copyright": "",
+            "title": "武临天下",
+            "on_sale": false,
+            "comment_count": 13,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 502,
+            "score": 5.52,
+            "allow_free_read": 1,
+            "rights_id": 10020,
+            "channel": [
+                1
+            ],
+            "updated": 1465892120,
+            "finish": true,
+            "tags": [
+                "江湖",
+                "绝世连环的武功",
+                "武临天下",
+                "武侠",
+                "传统武侠",
+                "武侠仙侠"
+            ],
+            "price": 3,
+            "chapter_count": 503,
+            "authors": "水土养木",
+            "categories": [{
+                    "category_id": 30000,
+                    "label": "武侠仙侠"
+                },
+                {
+                    "category_id": 30500,
+                    "label": "传统武侠"
+                },
+                {
+                    "category_id": 3000000,
+                    "label": "武侠"
+                },
+                {
+                    "category_id": 3000100,
+                    "label": "传统武侠"
+                }
+            ],
+            "rights": "小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01ynRPmdGjD/tpWFgO6B46XHBM.jpg",
+            "summary": "一个被捡来的孤儿在他十八岁那年发生了翻天覆地的变化，绝世的机缘让他不费吹灰之力就拥有了人们羡慕的一切...",
+            "fiction_id": 315299,
+            "outer_id": "5655a32850e3a476de2b4d9b",
+            "latest": "第503章 变化"
+        },
+        {
+            "ad": 0,
+            "word_count": 5215422,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 4276383,
+            "free_chapter": false,
+            "score_count": 75,
+            "copyright": "",
+            "title": "武魂弑天",
+            "on_sale": false,
+            "comment_count": 43,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 2258,
+            "score": 7.36,
+            "allow_free_read": 1,
+            "rights_id": 10020,
+            "channel": [
+                1
+            ],
+            "updated": 1479356486,
+            "finish": true,
+            "tags": [
+                "易辰",
+                "重生",
+                "爽文",
+                "热血",
+                "练功升级",
+                "玄幻",
+                "东方玄幻",
+                "玄幻奇幻"
+            ],
+            "price": 3,
+            "chapter_count": 2259,
+            "authors": "铁手追命",
+            "categories": [{
+                    "category_id": 10000,
+                    "label": "玄幻奇幻"
+                },
+                {
+                    "category_id": 10100,
+                    "label": "东方玄幻"
+                },
+                {
+                    "category_id": 1000000,
+                    "label": "玄幻"
+                },
+                {
+                    "category_id": 1000100,
+                    "label": "东方玄幻"
+                }
+            ],
+            "rights": "小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p017aXZpDEGW/HBjNX0DMqezz14.jpg",
+            "summary": "比天赋？纵你天资卓越，在小爷面前你会自卑到吐血。拼至宝？爷我身怀至宝无数，每一件都能让强者疯狂。 什...",
+            "fiction_id": 316997,
+            "outer_id": "5694c96050e3a4261f58ef6b",
+            "latest": "大结局（七）"
+        },
+        {
+            "ad": 0,
+            "word_count": 1664087,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 638510,
+            "free_chapter": false,
+            "score_count": 21,
+            "copyright": "",
+            "title": "江湖浪子儿女情",
+            "on_sale": true,
+            "comment_count": 13,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 830,
+            "score": 6.95,
+            "allow_free_read": 1,
+            "rights_id": 20002,
+            "channel": [
+                1
+            ],
+            "updated": 1463906925,
+            "finish": false,
+            "tags": [
+                "武侠",
+                "武侠仙侠",
+                "传统武侠"
+            ],
+            "price": 3,
+            "chapter_count": 1066,
+            "authors": "云海日出",
+            "categories": [{
+                    "category_id": 30000,
+                    "label": "武侠仙侠"
+                },
+                {
+                    "category_id": 30500,
+                    "label": "传统武侠"
+                },
+                {
+                    "category_id": 3000000,
+                    "label": "武侠"
+                },
+                {
+                    "category_id": 3000100,
+                    "label": "传统武侠"
+                }
+            ],
+            "rights": "红袖",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p011kFN6Hmgt/RixhLRkB68km78.jpg",
+            "summary": "魔刀出天地枢；神剑现，天地诛。\n这是武林中流传了百年的传说。很多的武林人士不明白这句话的含义。\n其实...",
+            "fiction_id": 37356,
+            "outer_id": "3372",
+            "latest": "第七百九十一章"
+        },
+        {
+            "ad": 0,
+            "word_count": 1353156,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 1067067,
+            "free_chapter": false,
+            "score_count": 89,
+            "copyright": "",
+            "title": "太古主宰",
+            "new_tags": [
+                "励志",
+                "热血",
+                "废柴流",
+                "重生"
+            ],
+            "on_sale": false,
+            "comment_count": 75,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 469,
+            "score": 7.25,
+            "allow_free_read": 1,
+            "rights_id": 10080,
+            "channel": [
+                1
+            ],
+            "updated": 1487744720,
+            "finish": false,
+            "tags": [
+                "升级文",
+                "扮猪吃虎",
+                "咸鱼翻身",
+                "玄幻奇幻",
+                "东方玄幻",
+                "玄幻",
+                "东方玄幻"
+            ],
+            "price": 5,
+            "chapter_count": 470,
+            "authors": "紫宇流星",
+            "categories": [{
+                    "category_id": 10000,
+                    "label": "玄幻奇幻"
+                },
+                {
+                    "category_id": 10100,
+                    "label": "东方玄幻"
+                },
+                {
+                    "category_id": 1000000,
+                    "label": "玄幻"
+                },
+                {
+                    "category_id": 1000100,
+                    "label": "东方玄幻"
+                }
+            ],
+            "rights": "阅文集团旗下小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/fdsc3/p01FFnrW2ZIy/lYNBVy8WFFAS1a.jpg",
+            "summary": "废柴公子天雷塑体重生，脑海之中多了部功法！ \n自此无敌功法，强大武技，炼丹、炼器之术都出现在脑海中…...",
+            "fiction_id": 315933,
+            "outer_id": "3733934303412901",
+            "latest": "第470章 影杀"
+        },
+        {
+            "ad": 0,
+            "word_count": 2384109,
+            "owner": 0,
+            "allow_discount": 0,
+            "ad_time": 0,
+            "click": 3236387,
+            "free_chapter": false,
+            "score_count": 102,
+            "copyright": "",
+            "title": "圣龙邪尊",
+            "on_sale": false,
+            "comment_count": 68,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 1126,
+            "score": 7.09,
+            "allow_free_read": 1,
+            "rights_id": 10020,
+            "channel": [
+                1
+            ],
+            "updated": 1451360491,
+            "finish": true,
+            "tags": [
+                "热血",
+                "激情",
+                "霸道",
+                "",
+                "异世大陆",
+                "异界大陆",
+                "玄幻",
+                "玄幻奇幻"
+            ],
+            "price": 3,
+            "chapter_count": 1127,
+            "authors": "ACE灬手套",
+            "categories": [{
+                    "category_id": 10000,
+                    "label": "玄幻奇幻"
+                },
+                {
+                    "category_id": 10200,
+                    "label": "异世大陆"
+                },
+                {
+                    "category_id": 1000000,
+                    "label": "玄幻"
+                },
+                {
+                    "category_id": 1000200,
+                    "label": "异界大陆"
+                }
+            ],
+            "rights": "小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01WgQ37gYao/JwMq4cIyocewEF.jpg",
+            "summary": "【已经养肥了哦！】一代至尊杀手天生傲骨！重生异世却是废物之身！我欲踏巅峰之途，剑指苍穹；我欲凌众生之...",
+            "fiction_id": 309004,
+            "outer_id": "55c9738550e3a4339b5a544f",
+            "latest": "第1127章 大结局2"
+        },
+        {
+            "ad": 0,
+            "word_count": 3007467,
+            "owner": 0,
+            "allow_discount": false,
+            "ad_time": 0,
+            "click": 115988,
+            "free_chapter": false,
+            "score_count": 9,
+            "copyright": "",
+            "title": "天机传奇",
+            "on_sale": false,
+            "comment_count": 7,
+            "has_ad": 0,
+            "ad_duration": 0,
+            "latest_id": 810,
+            "score": 5.11,
+            "allow_free_read": 1,
+            "rights_id": 10020,
+            "channel": [
+                1
+            ],
+            "updated": 1465873175,
+            "finish": true,
+            "tags": [
+                "穿越",
+                "江湖",
+                "争斗",
+                "阴谋",
+                "神器",
+                "",
+                "武侠",
+                "武侠仙侠",
+                "传统武侠"
+            ],
+            "price": 3,
+            "chapter_count": 811,
+            "authors": "七义之戚少",
+            "categories": [{
+                    "category_id": 30000,
+                    "label": "武侠仙侠"
+                },
+                {
+                    "category_id": 30500,
+                    "label": "传统武侠"
+                },
+                {
+                    "category_id": 3000000,
+                    "label": "武侠"
+                },
+                {
+                    "category_id": 3000100,
+                    "label": "传统武侠"
+                }
+            ],
+            "rights": "小说阅读网",
+            "level": 0,
+            "cover": "http://cover.read.duokan.com/mfsv2/download/s010/p01OCS5ktrnP/mV3SJTvWtHrIBR.jpg",
+            "summary": "五个稚嫩少年，一次无心穿越，一段机缘巧合。得以名师教导，从而历练下山，却无心卷入了一场场惊心动魄的争...",
+            "fiction_id": 315293,
+            "outer_id": "5655a33e50e3a476de2b4db9",
+            "latest": "（空）"
+        }
+    ],
+    "banner": "http://image.read.duokan.com/mfsv2/download/fdsc3/p01t3HFw4zGY/cRQkpvrTm5bJJB.jpg",
+    "packed": false,
+    "more": true
+}

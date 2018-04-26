@@ -1,0 +1,25 @@
+<script type="text/x-handlebars-template" id="book-l-r-shelf">
+    {{#each this}}
+     {{#issix @index}}
+    <a href="#" class="bookLRlist" data-src="">
+        <dl>
+            <dt>
+                <img src="{{cover}}" alt="">
+            </dt>
+            <dd>
+                <h4>{{title}}</h4>
+                <h6>{{authors}}</h6>
+                <p>{{summary}}</p>
+                <div class="booktit">
+                    {{#each tags}}
+                    {{#tagsMax @index}}
+                    <span>{{this}}</span>
+                    {{/tagsMax}}
+                    {{/each}}
+                </div>
+            </dd>
+        </dl>
+    </a>
+    {{/issix}}
+    {{/each}}
+</script>

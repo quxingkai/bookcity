@@ -1,0 +1,35 @@
+<script type="text/x-handlebars-template" id="gravity">
+    {{#each this}}
+       {{#isslice @index}}
+       {{#isfirst @index}}
+         <a href="#" class="bookLRlist">
+             <dl>
+                 <dt>
+                     <span class="billboard">1</span>
+                     <img src="{{cover}}" alt="">
+                     <strong class="bookend">完结</strong>
+                 </dt>
+                 <dd>
+                     <h4>{{title}}</h4>
+                     <h6>{{authors}}</h6>
+                     <p>{{summary}}</p>
+                     <div class="booktit">
+                         {{#each tags}}
+                            <span>{{this}}</span>
+                         {{/each}}
+                     </div>
+                 </dd>
+             </dl>
+         </a>
+       {{/isfirst}}
+       <a href="#" class="bookentry">
+         <dl>
+             <dt><span class="billboard">{{billb @index}}</span></dt>
+             <dd>
+                 <h4>{{title}}</h4><span>{{authors}}</span>
+             </dd>
+         </dl>
+     </a>
+     {{/isslice}}
+    {{/each}}
+ </script>

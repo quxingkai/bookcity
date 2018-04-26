@@ -1,0 +1,62 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="../js/libs/flexible.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>搜索</title>
+    <link rel="stylesheet" href="../scss/header.css">
+    <link rel="stylesheet" href="../scss/share.css">
+    <link rel="stylesheet" href="../scss/section.css">
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../scss/index.css">
+    <link rel="stylesheet" href="../font/iconfont.css">
+    <link rel="stylesheet" href="../scss/search.css">
+    <link rel="stylesheet" href="../scss/iconlist.css">
+</head>
+<body>
+    <div class="wrap">
+        <header class="render-header header"></header>
+        <section>
+            <div class="swiper-container bookBan">
+                <div class="swiper-wrapper bookPage">
+                    <div class="swiper-slide">
+                        <ul class="btnbook">
+                           <li>诛仙</li><li>择天记</li>
+                        </ul>
+                        <div class="book-l-r-list" id="searchBooks">
+                            <!-- <a href="#" class="bookLRlist">
+                                <dl>
+                                    <dt>
+                                        <span class="billboard">1</span>
+                                        <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p01W18eqGFfh/LgKEIErAOki8Qm.jpg!s" alt="">
+                                        <strong class="bookend">完结</strong>
+                                    </dt>
+                                    <dd>
+                                        <h4>我的绝美女神老婆</h4>
+                                        <h6>一笔烟云</h6>
+                                        <p>身怀绝技的方少阳，带着对大都市的美好憧憬，本想投靠师娘，却当上了医院妇科的男医生，泡了个美女医生，误...</p>
+                                        <div class="booktit">
+                                            <span>都市情缘</span><span>热血都市</span><span>506万字</span>
+                                        </div>
+                                    </dd>
+                                </dl>
+                            </a> -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="../js/require.js"></script>
+    <script>
+       require(['../js/main.js'],function(){
+          require(['header','search'],function(header,search){
+            var obj = {istrue:true};
+            header(obj)
+            search();
+          })
+       })
+    </script>
+</body>
+</html>

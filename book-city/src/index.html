@@ -1,0 +1,233 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8"> 
+    <script src="js/libs/flexible.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <link rel="stylesheet" href="scss/index.css">
+    <link rel="stylesheet" href="css/common.css">
+    <link rel="stylesheet" href="scss/header.css">
+    <link rel="stylesheet" href="css/libs/swiper.min.css">
+    <link rel="stylesheet" href="scss/section.css">
+    <link rel="stylesheet" href="scss/share.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="wrap">
+        <header class="header">
+            <a href="#" class="btn-sign"></a>
+            <div class="btnBook">
+                <span class="book-city">书城</span>
+                <span class="book-shelf">书架</span>
+            </div>
+            <a href="#" class="btn-person"></a>
+        </header>
+        <section>
+            <div class="swiper-container bookBan">
+                <div class="swiper-wrapper bookPage">
+                    <div class="swiper-slide page-book-city">
+                        <!-- 搜索框-公共 -->
+                        <div class="booksearch">
+                            <a class="inp" href="page/search.html"><input type="text" placeholder="输入书名/作者/关键字"></a>
+                        </div>
+                        <!-- 搜索框-公共结束 -->
+                        <!-- banner图 -->
+                        <div class="swiper-container bookBanner">
+                            <div class="swiper-wrapper" id="bookbanners">
+                                <div class="swiper-slide">
+                                    <img src="imgs/default-banner.jpg" alt="">
+                                </div>
+                            </div>
+                            <div class="swiper-pagination swiper-page"></div>
+                        </div>
+                        <!-- banner图结束 -->
+                        <!-- 男生女生icon 列表栏 -->
+                        <div class="iconlist">
+                            <!-- <a href="#">
+                                <img src="imgs/banner.jpg" alt="">
+                                <span>女生</span>
+                            </a> -->
+                        </div>
+                        <!-- 男生女生icon 列表栏结束 -->
+                        <!-- 本周最火 -->
+                        <div class="weekhot">
+                            <b></b>本周最火
+                        </div>
+                        <!-- 本周最火结束 -->
+                        <!-- 本周最火书目录 -->
+                        <div class="book-t-b-list" id="tb-list">
+                            <!-- <a href="#">
+                                <dl>
+                                    <dt><img src="imgs/book1.jpg" alt=""></dt>
+                                    <dd>老九门老九门老九门老九门老九门老九门老九门</dd>
+                                </dl>
+                            </a> -->
+                        </div>
+                        <!-- 本周最火书目录结束 -->
+                        <!-- 重磅推荐 -->
+                        <div class="weekhot">
+                           <a href="#">重磅推荐</a><strong>荐</strong>
+                        </div>
+                        <!-- 重磅推荐 结束-->
+                        <div class="book-l-r-list" id="Gravity-recommendation">
+                            <!-- <a href="#" class="bookLRlist">
+                                <dl>
+                                    <dt>
+                                        <span class="billboard">1</span>
+                                        <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p01W18eqGFfh/LgKEIErAOki8Qm.jpg!s" alt="">
+                                        <strong class="bookend">完结</strong>
+                                    </dt>
+                                    <dd>
+                                        <h4>我的绝美女神老婆</h4>
+                                        <h6>一笔烟云</h6>
+                                        <p>身怀绝技的方少阳，带着对大都市的美好憧憬，本想投靠师娘，却当上了医院妇科的男医生，泡了个美女医生，误...</p>
+                                        <div class="booktit">
+                                            <span>都市情缘</span><span>热血都市</span><span>506万字</span>
+                                        </div>
+                                    </dd>
+                                </dl>
+                            </a> -->
+                            <!-- 简略左右版本 -->
+                            <!-- <a href="#" class="bookentry">
+                                <dl>
+                                    <dt><span class="billboard">02</span></dt>
+                                    <dd>
+                                        <h4>异能狂徒在校园</h4><span>三寸烟火</span>
+                                    </dd>
+                                </dl>
+                            </a> -->
+                            <!-- 简略左右版本 结束-->
+                        </div>
+                        <div class="Change-one-change">
+                            <span>换一换</span><span>检查全部</span>
+                        </div>
+                        <div class="weekhot">
+                            <a href="#">女生最爱</a>
+                         </div>
+                         <!-- 女生最爱 -->
+                         <div class="book-l-r-list" id="Girls-favorite">
+                            <!-- <a href="#" class="bookLRlist">
+                                <dl>
+                                    <dt>
+                                        <span class="billboard">1</span>
+                                        <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p01W18eqGFfh/LgKEIErAOki8Qm.jpg!s" alt="">
+                                        <strong class="bookend">完结</strong>
+                                    </dt>
+                                    <dd>
+                                        <h4>我的绝美女神老婆</h4>
+                                        <h6>一笔烟云</h6>
+                                        <p>身怀绝技的方少阳，带着对大都市的美好憧憬，本想投靠师娘，却当上了医院妇科的男医生，泡了个美女医生，误...</p>
+                                        <div class="booktit">
+                                            <span>都市情缘</span><span>热血都市</span><span>506万字</span>
+                                        </div>
+                                    </dd>
+                                </dl>
+                            </a> -->
+                        </div>
+                         <!-- 女生最爱结束 -->
+                         <div class="Change-one-change">
+                            <span>换一换</span><span>女生频道</span>
+                        </div>
+                        <div class="weekhot">
+                            <a href="#">男生最爱</a>
+                         </div>
+                         <!-- 男生最爱开始 -->
+                         <div class="book-l-r-list" id="boy-favorite">
+                            <!-- <a href="#" class="bookLRlist">
+                                <dl>
+                                    <dt>
+                                        <span class="billboard">1</span>
+                                        <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p01W18eqGFfh/LgKEIErAOki8Qm.jpg!s" alt="">
+                                        <strong class="bookend">完结</strong>
+                                    </dt>
+                                    <dd>
+                                        <h4>我的绝美女神老婆</h4>
+                                        <h6>一笔烟云</h6>
+                                        <p>身怀绝技的方少阳，带着对大都市的美好憧憬，本想投靠师娘，却当上了医院妇科的男医生，泡了个美女医生，误...</p>
+                                        <div class="booktit">
+                                            <span>都市情缘</span><span>热血都市</span><span>506万字</span>
+                                        </div>
+                                    </dd>
+                                </dl>
+                            </a> -->
+                        </div>
+                        <!-- 男生最爱结束 -->
+                        <div class="Change-one-change">
+                            <span>换一换</span><span>男生频道</span>
+                        </div>
+                        <div class="weekhot">
+                            <a href="#">限时免费</a>
+                       </div>
+                        <!-- 限时免费 -->
+                        <div class="book-t-b-list" id="Free-Admission"></div>
+                        <!-- 限时免费结束 -->
+                    </div>
+                    <!-- 书架 -->
+                    <div class="swiper-slide page-book-shelf">
+                        <!-- 搜索框-公共 -->
+                        <div class="booksearch">
+                            <a class="inp" href="page/search.html"><input type="text" placeholder="输入书名/作者/关键字"></a><a href="#" class="icon-switch"></a>
+                        </div>
+                        <!-- 搜索框-公共结束 -->
+                        <!-- 书架上下结构 -->
+                        <div class="book-t-b-list" id="t-b-shelf" style="display: none">
+                            <!-- <a href="#">
+                                <dl>
+                                    <dt><img src="imgs/book1.jpg" alt=""></dt>
+                                    <dd>老九门老九门老九门老九门老九门老九门老九门</dd>
+                                </dl>
+                            </a> -->
+                        </div>
+                        <!-- 书架上下结构 结束-->
+                        <!-- 书架左右结构 -->
+                        <div class="book-l-r-list" id="lrbookshelf">
+                            <!-- <a href="#" class="bookLRlist">
+                                <dl>
+                                    <dt>
+                                        <span class="billboard">1</span>
+                                        <img src="http://cover.read.duokan.com/mfsv2/download/fdsc3/p01W18eqGFfh/LgKEIErAOki8Qm.jpg!s" alt="">
+                                        <strong class="bookend">完结</strong>
+                                    </dt>
+                                    <dd>
+                                        <h4>我的绝美女神老婆</h4>
+                                        <h6>一笔烟云</h6>
+                                        <p>身怀绝技的方少阳，带着对大都市的美好憧憬，本想投靠师娘，却当上了医院妇科的男医生，泡了个美女医生，误...</p>
+                                        <div class="booktit">
+                                            <span>都市情缘</span><span>热血都市</span><span>506万字</span>
+                                        </div>
+                                    </dd>
+                                </dl>
+                            </a> -->
+                        </div>
+                        <!-- 书架左右结构结束 -->
+                    </div>
+                    <!-- 书架结束 -->
+                </div>
+            </div>
+        </section>
+    </div>
+    <script src="js/require.js"></script>
+    <script>
+        require(['./js/main.js'],function(){
+            require(['index'])
+        })
+    </script>
+    <script type="text/x-handlebars-template" id="tplBan">
+        {{#each this}}
+          <div class="swiper-slide">
+              <a href="#">
+                  <img src="{{ad_pic_url}}" alt="">
+              </a>
+          </div>
+        {{/each}}
+    </script>
+    <script type="text/x-handlebars-template" id="iconlist">
+        {{#each this}}
+           <a href="#" data-src="page/iconlist.html" data-name="{{this.tit}}">
+                <img src="{{this.img}}" alt="">
+                <span>{{this.tit}}</span>
+            </a>
+        {{/each}}
+    </script>
+</body>
+</html>

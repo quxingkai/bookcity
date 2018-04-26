@@ -1,0 +1,58 @@
+@import "_config.scss";
+@import "_mixin.scss";
+.header{
+    a{
+        color:#000;
+    }
+    width:100%;
+    height:pxTorem(50px);
+    padding:0 pxTorem(16px);
+    display: flex;
+    align-items: center;
+    position: relative;
+    border-bottom: 1px solid #E9E8E6;
+    background:#EFEFEF;
+    .btn-sign{
+        position: absolute;
+        left:pxTorem(10px);
+        display: inline-block;
+        width:pxTorem(30px);
+        height:pxTorem(30px);
+        @include bg('../imgs/icon-sign.png');
+        background-size: cover;
+    }
+    .btn-person{
+        position: absolute;
+        right:pxTorem(10px);
+        display: inline-block;
+        width:pxTorem(26px);
+        height:pxTorem(28px);
+        @include bg('../imgs/icon-person.png');
+        background-size:cover;
+    }
+    .btnBook{
+        text-align: center;
+        flex: 1;
+        height:pxTorem(44px);
+        line-height: pxTorem(44px);
+        span{
+            display: inline-block;
+            height:pxTorem(40px);
+            font-size: pxTorem(18px);
+            margin:0 pxTorem(10px);
+            &.bg:after{
+                content: "";
+                position: relative;
+                bottom: 4px;
+                display: block;
+                width:100%;
+                height:1px ;
+                background: #454442;
+                transition: all 1s;
+            }
+            &.bg{
+                color:$tab-active-color;
+            }
+        }
+    }
+}

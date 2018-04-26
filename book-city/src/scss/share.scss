@@ -1,0 +1,49 @@
+@import "_config.scss";
+@import "_mixin.scss";
+.booksearch{
+    width:100%;
+    height:pxTorem(50px);
+    display: flex;
+    align-items: center;
+    box-sizing: border-box;
+    padding:0 pxTorem(10px);
+   .inp{
+        flex:1;
+        height:100%;
+        line-height: pxTorem(50px);
+        vertical-align: middle;
+        @include bg('../imgs/icon-search.png',pxTorem(5px));
+        background-size:pxTorem(20px);
+        input{
+            padding-left: pxTorem(30px);
+            vertical-align: middle;
+            line-height: pxTorem(50px);
+            width:100%;
+            height:pxTorem(30px);
+            font-size: pxTorem(16px);
+            border:1px solid $search-border;
+        }
+    }
+    .icon-switch{
+      vertical-align: middle;
+      padding:pxTorem(5px);
+      height: pxTorem(30px);
+      @include bg('../imgs/icon-switch.png');
+      background-size:70%;
+      width: pxTorem(30px);
+      border:1px solid  $search-border;
+      margin-left:pxTorem(10px);
+    }
+    .icon-left{
+        position: relative;
+        top:pxTorem(2px);
+        vertical-align: middle;
+        width:pxTorem(30px);
+        height:pxTorem(30px);
+        line-height:pxTorem(30px);
+        text-align: center;
+        color:#ccc;
+        font-size: pxTorem(20px);
+        border: 1px solid  $search-border;
+    }
+}

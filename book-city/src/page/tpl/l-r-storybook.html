@@ -1,0 +1,28 @@
+<script type="text/x-handlebars-template" id="storybook-tpl">
+        <a href="#" class="bookLRlist">
+            <dl>
+                <dt class="readleft">
+                    <img src="{{cover}}" alt="">
+                </dt>
+                <dd class="readright">
+                    <h4>{{title}}</h4>
+                    <h6>{{authors}}</h6>
+                    <div class="booktit">
+                       字数：{{numwords updated}}
+                        <span class="finish">{{istrue finish}}</span>
+                    </div>
+                </dd>
+            </dl>
+        </a>
+        <div class="reading" id="reading">
+            <span class="beginRead bg">开始阅读</span><span class="begindown">下载</span>
+        </div>
+        <p class="content">{{content}}</p>
+        <a href="#" class="Newest">最新：{{latest}}</a>
+        <div class="booktit">
+            <div class="toptit">类别标签</div>
+            {{#each tags}}
+             <span class="storytit">{{this}}</span>
+            {{/each}}
+        </div>
+</script>

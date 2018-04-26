@@ -1,0 +1,13 @@
+@import "_config.scss";
+@import "_mixin.scss";
+.bookCatalog{
+    width:100%;
+    li{
+        width:100%;
+        padding-left:pxTorem(20px);
+        height:pxTorem(40px);
+        line-height: pxTorem(40px);
+        font-size:pxTorem(16px);
+        border-bottom: 1px solid #ddd;
+    }
+}

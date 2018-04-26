@@ -1,0 +1,73 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <script src="../js/libs/flexible.js"></script>
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <title>读书</title>
+    <link rel="stylesheet" href="../css/common.css">
+    <link rel="stylesheet" href="../scss/article.css">
+</head>
+<body>
+    <div class="wrap">
+        <!-- 内容区 -->
+        <div class="details"></div>
+        <!-- 遮罩层 -->
+        <div class="mask none"></div>
+        <!-- 顶部 -->
+        <section class="top-set none">
+            <span class="icon-circle-back back">返回</span>
+        </section>
+        <!-- 底部 -->
+        <section class="bot-set none">
+            <div class="chapter-btns">
+                <span class="prveBtn">上一章</span>
+                <span>1/11</span>
+                <span class="nextBtn">下一章</span>
+            </div>
+            <div class="style-btns">
+                <dl class="chapter">
+                    <dt></dt>
+                    <dd>目录</dd>
+                </dl>
+                <dl class="size">
+                    <dt></dt>
+                    <dd>字体</dd>
+                </dl>
+                <dl class="day">
+                    <dt></dt>
+                    <dd>白天</dd>
+                </dl>
+            </div>
+        </section>
+         <!-- 设置面板 -->
+        <section class="set-style none">
+            <div class="font-btns">
+                <span>字号</span>
+                <button class="large-btn">大</button>
+                <button class="small-btn">小</button>
+            </div>
+
+            <div class="set-bg-btns">
+                <span>背景</span>
+                <ul class="bg-list">
+                    <li bg-color="#f7eee5" class="active"></li>
+                    <li bg-color="#e9dfc7"></li>
+                    <li bg-color="#a4a4a4"></li>
+                    <li bg-color="#cdefce"></li>
+                    <li bg-color="#283548"></li>
+                    <li bg-color="#0f1410"></li>
+                </ul>
+            </div>
+        </section>
+    </div>
+</body>
+<script src="../js/require.js"></script>
+<script>
+    require(['../js/main.js'],function(){
+        require(['article'],function(article){
+            article();
+        });
+    })
+</script>
+</html>

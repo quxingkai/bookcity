@@ -1,0 +1,12 @@
+<script type="text/x-handlebars-template" id="header-tpl">
+       <i class="icon iconfont icon-xiangzuo xiangzuo"></i>
+        {{#if istrue}}
+        <div class="booksearch">
+            <label class="inp"><input type="text" placeholder="输入书名/作者/关键字" class="searchBook"></label>
+        </div>
+        <button class="btn">搜索</button>
+        {{else}}
+        <div class="btnBook">{{title}}</div>
+        <a href="../../index.html"><i class="icon iconfont icon-iconhuidaoshouye shouye"></i></a>
+        {{/if}}  
+</script>

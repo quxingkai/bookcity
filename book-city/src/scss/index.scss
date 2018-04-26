@@ -1,0 +1,24 @@
+@import "_config.scss";
+@import "_mixin.scss";
+
+*{
+    padding:0;
+    margin:0;
+    line-height: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+html,body,.wrap{
+    @include wh($w:100%, $h:100%);
+
+}
+.wrap{
+    // overflow: hidden;
+    display: flex;
+    flex-direction: column;
+}
+section{
+    flex:1;
+    overflow:auto;
+    -webkit-overflow-scrolling:touch;
+}
